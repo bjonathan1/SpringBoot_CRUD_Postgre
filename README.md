@@ -102,7 +102,7 @@ of basic idea that will be done.
 
 ![Project Overview](./img/project_overview.png)
 
-Before we start to learn the business architecture, we need took understand some 
+Before we start to learn the business architecture, we need to understand some 
 fundamental concepts of Spring in order to understand fully.
 
 ### MVC Pattern
